@@ -1,0 +1,27 @@
+{
+  "name": "janusweb-proxy",
+  "description": "CORS proxy for JanusWeb",
+  "version": "0.0.1",
+  "main": "proxy.js",
+  "author": "James Baicoianu",
+  "license": "MIT",
+  "scripts": {
+  },
+
+  "devDependencies": {
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbaicoianu/janusweb-proxy"
+  },
+  "dependencies": {
+    "cors-anywhere": ">=0.2.5"
+  },
+  "keywords": [
+    "janusweb",
+    "cors",
+    "proxy"
+  ]
+}
+
